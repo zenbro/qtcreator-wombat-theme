@@ -5,8 +5,8 @@
   <style name="Comment" foreground="#99968b" italic="true"/>
   <style name="CurrentLine" foreground="#f6f3e8" background="#0c0c0c"/>
   <style name="CurrentLineNumber" foreground="#ffff00" bold="true"/>
-  <style name="DiffFile" foreground="#ff765e" background="#12100f" bold="true"/>
-  <style name="DiffLocation" foreground="#aaaaff" background="#12100f" bold="true"/>
+  <style name="DiffFile" foreground="#ff765e" background="#12100f"/>
+  <style name="DiffLocation" foreground="#aaaaff" background="#12100f"/>
   <style name="DisabledCode" foreground="#857b6f" background="#12100f"/>
   <style name="Doxygen.Comment" foreground="#7a786f"/>
   <style name="Doxygen.Tag" foreground="#222222" background="#ffed65"/>
@@ -34,14 +34,14 @@
   <style name="QmlScopeObjectProperty" foreground="#ffcc8a"/>
   <style name="QmlStateName" foreground="#51bf84"/>
   <style name="QmlTypeId" foreground="#cae682"/>
-  <style name="RemovedLine" foreground="#ffffff" background="#862d2d" bold="true"/>
+  <style name="RemovedLine" foreground="#ffffff" background="#862d2d"/>
   <style name="SearchResult" foreground="#000000" background="#8f5f8f"/>
   <style name="SearchScope" foreground="#ffaaff"/>
   <style name="Selection" foreground="#f6f3e8" background="#444444"/>
-  <style name="Static" foreground="#ffd815" bold="true"/>
+  <style name="Static" foreground="#ffd815"/>
   <style name="String" foreground="#95e454" italic="true"/>
   <style name="Text" foreground="#f6f3e8" background="#242424"/>
-  <style name="Type" foreground="#ffcd80" bold="true"/>
+  <style name="Type" foreground="#ffcd80"/>
   <style name="VirtualMethod" foreground="#be7fbe"/>
   <style name="VisualWhitespace" foreground="#c0c0c0"/>
 </style-scheme>
